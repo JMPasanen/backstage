@@ -196,5 +196,31 @@
     "@backstage/plugin-user-settings-backend": "0.2.29",
     "@backstage/plugin-user-settings-common": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "afraid-experts-explain",
+    "afraid-kids-jog",
+    "beige-dingos-destroy",
+    "clean-squids-build",
+    "create-app-1737073374",
+    "curly-humans-prove",
+    "curvy-ways-play",
+    "cyan-grapes-confess",
+    "dry-flies-rhyme",
+    "dry-horses-report",
+    "fair-mangos-sleep",
+    "green-jokes-provide",
+    "hungry-mirrors-sniff",
+    "loud-walls-build",
+    "old-moons-end",
+    "old-phones-rest",
+    "orange-brooms-lick",
+    "proud-hornets-cheer",
+    "quiet-phones-sell",
+    "sharp-vans-protect",
+    "sharp-years-drive",
+    "short-vans-reflect",
+    "tall-scissors-sip",
+    "twelve-eyes-stare",
+    "wise-apes-juggle"
+  ]
 }
